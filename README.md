@@ -1,6 +1,5 @@
 Pacman
-   This HTML and JavaScript code creates a simple Pac-Man animation within a box on a web page. The Pac-Man character moves back and forth horizontally within the box, changing its mouth 
-   open/close state to simulate animation. Here's a brief description:
+
 >HTML Structure:
 
    The code sets up a basic HTML5 structure with a <div> element named "box" serving as the container for the Pac-Man animation.
